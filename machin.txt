@@ -1,10 +1,1 @@
-dsfdfs
-github+localtrejltk
-je le modifie
-
-j'écris2jhv,vhj
-
-anna
-modif git anna
-qezrerz
-fdfd
+Fichier pour faire des tests GIT
